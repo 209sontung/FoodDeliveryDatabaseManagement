@@ -1,5 +1,4 @@
 # Food Delivery Database Management
-Food Delivery Database Management on MySQL
 
 This is my project for the Database final test about Food Delivery Management and it is all written in MySQL. 
 The project has 6 parts: 
